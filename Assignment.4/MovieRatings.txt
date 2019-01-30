@@ -1,0 +1,67 @@
+-Vincenzo Roach:
+	Troy: 5.5
+	Gladiator: 6.5
+	Kingdom of Heaven: 4.5
+	Centurion: 5.5
+	12 Years a Slave: 6
+	300: 9
+	Lincoln: 6.5
+	Titanic: 9
+-Tennille Andujar:
+	Agora: 9
+	The Pianist: 9
+	Saving Private Ryan: 9
+	Apocalypto: 9
+	12 Years a Slave: 8
+-Neida Mansour:
+	Braveheart: 4
+	Downfall: 6
+	The Last Samurai: 8
+	Gangs of New York: 9
+-Errol Baggett:
+	Troy: 10
+	Gladiator: 9.5
+	Kingdom of Heaven: 5.5
+	Centurion: 6
+	Downfall: 8
+	The Last Samurai: 8
+-Shona Edwin:
+	300: 4
+	Lincoln: 4.5
+	Titanic: 6
+	Troy: 9.5
+	Gladiator: 8
+	Kingdom of Heaven: 7
+-Gidget Torrance: 
+	The Young Victoria: 7
+-Tiffany Schleifer:
+	The Patriot: 10
+	Elizabeth: 3
+	Mongol: 9
+	Munich: 5
+-Shana Boling:
+	The Patriot: 8
+	Elizabeth: 10
+	Mongol: 4
+	Munich: 6.5
+	Gladiator: 9
+	Kingdom of Heaven: 9
+	Centurion: 9.5
+-Vernia Clausen:
+	Gladiator: 1
+	Kingdom of Heaven: 3
+	Centurion: 5
+	Agora: 6
+	The Pianist: 4
+	Saving Private Ryan: 2
+	Apocalypto: 2
+-Janita Brekke:
+	300: 9
+	Lincoln: 4
+	Titanic: 5
+	Troy:6
+	Gladiator: 7
+	Kingdom of Heaven: 10
+	Mongol: 7
+	Munich: 6
+	The Young Victoria: 7
